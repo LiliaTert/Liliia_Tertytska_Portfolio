@@ -46,7 +46,7 @@ automated tests with <b>Selenium IDE</b>, <b>PyCharm</b>;</li>
 "Responsive Web Design by Example" by Frahaan Hussain
 
 <h2> You can find my CV by link:</h2>
-👉<a href="https://drive.google.com/file/d/1PlRLuftyi0Dmd02Q-JXirHqYWPE_6I6c/view?usp=share_link"> 
+👉<a href="https://drive.google.com/file/d/1jRRHf2KnUjODtvxY1u2uDDO7YHZVzCLz/view?usp=share_link"> 
 Liliia_Tertytska_CV</a><br>
 
 <h2> My LinkedIn profile:</h2>
