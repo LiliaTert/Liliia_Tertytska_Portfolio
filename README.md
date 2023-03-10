@@ -4,18 +4,16 @@
 <p>I decided to change my career from Accountant to QA Engineer. I'm wondering how fast tech industry is developing. And how huge step forward are doing those industries where IT joins. That's why I want to be a part of this creative community.</p>
 <p>Currently, I'm completing my study at the IT Step Academy Ukraine, as a Manual QA Engineer. During this course, I also families the basics of automated testing. In my opinion it is interesting, and I want to develop as Automation QA Engineer in the future.</p>
 <ul>Among my strengths, I'd highlight:
-<li>self-motivation;</li>
-<li>diligence;</li>
+<li>ability to work efficiently both individually and in a team;</li>
 <li>attention to details;</li>
-<li>non-conflicting;</li>
-<li>work ethic.</li></ul>
+<li>willingness to learn and grow as a professional.</li></ul>
 <p>My goal for the future is to find an interesting job and to develop as a QA Engineer.</p>
 
 <h2> Education:</h2>
 👉<a href="https://drive.google.com/file/d/1HdFbhaacMXPjUhqRHZjA8DhAyTMvFGL3/view?usp=share_link"> 
 STEP Computer Academy - Software testing | 2021-2023
 </a><br>
-👉Poltava University of Economics and Trade - Finance | 2004-2009
+👉 Poltava University of Economics and Trade - Master's degree, Finance and Accounting | 2004-2009
 
 <h2> Courses and Certificates:</h2>
 👉<a href="https://drive.google.com/file/d/1sPWI1bGrgrbDVL2B9sZkcgPEXIZLt2Zh/view?usp=share_link"> 
@@ -47,7 +45,7 @@ automated tests with <b>Selenium IDE</b>, <b>PyCharm</b>;</li>
 
 <h2> You can find my CV by link:</h2>
 👉<a href="https://drive.google.com/file/d/1jRRHf2KnUjODtvxY1u2uDDO7YHZVzCLz/view?usp=share_link"> 
-Liliia_Tertytska_CV</a><br>
+Liliia_Tertytska_QA_CV</a><br>
 
 <h2> My LinkedIn profile:</h2>
 👉<a href="https://www.linkedin.com/in/liliia-tertytska-3112b0266/"> 
