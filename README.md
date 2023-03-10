@@ -55,6 +55,6 @@ Liliia_Tertytska</a><br>
 👉<a href="https://github.com/LiliaTert/Challenge__robotframework"> 
 Challenge__robotframework</a><br>
 👉<a href="https://github.com/LiliaTert/Challenge_portfolio_pati">
-Challenge_portfolio_pati</a><br>
+Challenge_portfolio</a><br>
 👉<a href="https://github.com/LiliaTert/Moja_firma">
 Moja_firma</a><br>
