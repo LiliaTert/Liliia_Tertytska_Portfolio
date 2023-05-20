@@ -48,7 +48,7 @@ automated tests with <b>Selenium IDE</b>, <b>PyCharm</b>;</li>
 Liliia_Tertytska_QA_CV</a><br>
 
 <h2> My LinkedIn profile:</h2>
-👉<a href="https://www.linkedin.com/in/liliia-tertytska-3112b0266/"> 
+👉<a href="https://www.linkedin.com/in/liliia-t-3112b0266/"> 
 Liliia_Tertytska</a><br>
 
 <h2> My Projects:</h2>
